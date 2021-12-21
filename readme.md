@@ -49,7 +49,7 @@
   - j and k to go up and down (they are easy to hit with your strongest fingers, your right index and middle)
   - d and u to go a half-page up and down (configurable how much up or down they go)
   - J an K to switch tabs
-  - >> and << to move tabs around
+  - \>\> and << to move tabs around
 - TONS more
 - highly configurable
 
