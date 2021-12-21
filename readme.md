@@ -6,26 +6,28 @@
 
 You can download Karabiner, iTerm, and Rectangle, as well as add Vimium (or a version thereof) to nearly any browser.
 
-### Karabiner
+### The Tools And Why To Use Them
+
+#### Karabiner
 
 - caps lock to ctrl, esc when pressed
   - Caps lock sucks, easy access to Ctrl gives you the ability to actually USE the shortcuts here (otherwise why have them if you can't easily use them?)
 - right command and ijkl or wasd to arrow keys (or hjkl for vim-style)
 
-### iTerm Drop-Down
+#### iTerm Drop-Down
 
 - Use one for general commands--you'll do this a lot more later, usually your commands now are project-based
 - Use one for your project--just navigate to it.
 - Use one for Node... really good way to investigate how JS works.
 
-### Rectangle
+#### Rectangle
 
 - Ctrl-Option-Enter to go full-screen
 - Ctrl-Option-arrow-keys to move monitors (goes well with right-command-arrow-keys Karabiner change!)
 - Ctrl-Option-JKL to pick a third
 - Ctrl-Option-H and Ctrl-Option-; to take up the first or last two thirds.
 
-### Vimium Browser Extension
+#### Vimium Browser Extension
 
 - Keyboard-based web browsing.
 - It's in every browser! (Mostly because they're all based on Google's open source Chromium)
