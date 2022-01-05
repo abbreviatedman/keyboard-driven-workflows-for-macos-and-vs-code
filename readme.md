@@ -1,5 +1,9 @@
 # Keyboard-Driven Workflows
 
+## Introduction
+
+This is a set of general tools and keyboard shortcuts to use to increase how keyboard-driven and efficient your workflow is.
+
 ## macOS Workflow Tools
 
 ### Getting these tools
